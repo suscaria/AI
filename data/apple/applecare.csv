@@ -1,0 +1,16 @@
+TicketID,CustomerID,ProductModel,IssueType,Status,ResolutionDays
+TICK00001,CUST0001,iPhone 12,Battery Issue,Closed,3
+TICK00002,CUST0002,iPhone 12 Pro,Screen Damage,Open,
+TICK00003,CUST0003,iPhone 13,Software Bug,Closed,7
+TICK00004,CUST0004,iPhone 13 Pro,Camera Issue,In Progress,
+TICK00005,CUST0005,iPhone 14,Connectivity Problem,Closed,5
+TICK00006,CUST0006,iPhone 14 Pro,Speaker Issue,Closed,4
+TICK00007,CUST0007,iPad (8th gen),Battery Issue,Closed,2
+TICK00008,CUST0008,iPad Air (4th gen),Software Bug,Open,
+TICK00009,CUST0009,iPad Pro (4th gen),Screen Damage,Closed,6
+TICK00010,CUST0010,iPad Mini (6th gen),Connectivity Problem,Closed,3
+TICK00011,CUST0011,iPhone 12,Camera Issue,Closed,8
+TICK00012,CUST0012,iPhone 13,Speaker Issue,Closed,2
+TICK00013,CUST0013,iPad Air (4th gen),Battery Issue,In Progress,
+TICK00014,CUST0014,iPad Mini (6th gen),Screen Damage,Closed,4
+TICK00015,CUST0015,iPhone 14,Software Bug,Closed,7

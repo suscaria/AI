@@ -1,0 +1,11 @@
+CampaignID,CampaignName,StartDate,EndDate,ProductModel,DiscountPercent,CampaignType
+CAMP0001,Holiday Sale 2023,2023-11-20,2023-12-15,iPhone 12,15,Seasonal
+CAMP0002,Back to School 2023,2023-08-01,2023-09-10,iPhone 12 Pro,10,Educational
+CAMP0003,Summer Sale 2024,2024-06-05,2024-06-25,iPhone 13,20,Seasonal
+CAMP0004,Flash Friday Deals,2023-11-24,2023-11-25,iPhone 13 Pro,25,Flash Sale
+CAMP0005,New Year Special,2024-01-01,2024-01-10,iPhone 14,15,Seasonal
+CAMP0006,Holiday Sale 2023,2023-11-20,2023-12-15,iPhone 14 Pro,15,Seasonal
+CAMP0007,Back to School 2023,2023-08-01,2023-09-10,iPad (8th gen),10,Educational
+CAMP0008,Summer Sale 2024,2024-06-05,2024-06-25,iPad Air (4th gen),20,Seasonal
+CAMP0009,Flash Friday Deals,2023-11-24,2023-11-25,iPad Pro (4th gen),25,Flash Sale
+CAMP0010,New Year Special,2024-01-01,2024-01-10,iPad Mini (6th gen),15,Seasonal

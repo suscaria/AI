@@ -1,0 +1,86 @@
+Model Name,Model Number,Release Date,Display Size,Resolution,Processor,Storage Options,Colors,Dimensions (H x W x D),Weight,Notable Features
+iPhone,A1203,2007-06-29,3.5",320x480,A4,4GB/8GB/16GB,Black,115 x 61 x 11.6 mm,135g,First iPhone; Multi-touch screen
+iPhone 3G,A1241/A1324,2008-07-11,3.5",320x480,A4,8GB/16GB,Black/White,115.5 x 62.1 x 12.3 mm,133g,3G connectivity; App Store introduction
+iPhone 3GS,A1303/A1325,2009-06-19,3.5",320x480,A4,8GB/16GB/32GB,Black/White,115.5 x 62.1 x 12.3 mm,135g,Video recording; Voice Control
+iPhone 4,A1332/A1349,2010-06-24,3.5",640x960,A4,8GB/16GB/32GB,Black/White,115.2 x 58.6 x 9.3 mm,137g,Retina display; Front camera
+iPhone 4s,A1387/A1431,2011-10-14,3.5",640x960,A5,8GB/16GB/32GB/64GB,Black/White,115.2 x 58.6 x 9.3 mm,140g,Siri introduction; 8MP camera
+iPhone 5,A1428/A1429/A1442,2012-09-21,4.0",640x1136,A6,16GB/32GB/64GB,Black/White,123.8 x 58.6 x 7.6 mm,112g,LTE support; Lightning connector
+iPhone 5c,A1456/A1507/A1516/A1526/A1529/A1532,2013-09-20,4.0",640x1136,A6,8GB/16GB/32GB,Blue/Green/Pink/Yellow/White,124.4 x 59.2 x 8.97 mm,132g,Colorful plastic casing
+iPhone 5s,A1453/A1457/A1518/A1528/A1530/A1533,2013-09-20,4.0",640x1136,A7,16GB/32GB/64GB,Space Gray/Silver/Gold,123.8 x 58.6 x 7.6 mm,112g,Touch ID; 64-bit processor
+iPhone 6,A1549/A1586/A1589,2014-09-19,4.7",750x1334,A8,16GB/64GB/128GB,Space Gray/Silver/Gold,138.1 x 67.0 x 6.9 mm,129g,Apple Pay; Larger screen
+iPhone 6 Plus,A1522/A1524/A1593,2014-09-19,5.5",1080x1920,A8,16GB/64GB/128GB,Space Gray/Silver/Gold,158.1 x 77.8 x 7.1 mm,172g,Optical image stabilization
+iPhone 6s,A1633/A1688/A1700,2015-09-25,4.7",750x1334,A9,16GB/32GB/64GB/128GB,Space Gray/Silver/Gold/Rose Gold,138.3 x 67.1 x 7.1 mm,143g,3D Touch; Live Photos
+iPhone 6s Plus,A1634/A1687/A1699,2015-09-25,5.5",1080x1920,A9,16GB/32GB/64GB/128GB,Space Gray/Silver/Gold/Rose Gold,158.2 x 77.9 x 7.3 mm,192g,3D Touch; Live Photos
+iPhone SE (1st Gen),A1662/A1723/A1724,2016-03-31,4.0",640x1136,A9,16GB/32GB/64GB/128GB,Space Gray/Silver/Gold/Rose Gold,123.8 x 58.6 x 7.6 mm,113g,Compact size; A9 chip
+iPhone 7,A1660/A1778/A1779,2016-09-16,4.7",750x1334,A10 Fusion,32GB/128GB/256GB,Jet Black/Black/Silver/Gold/Rose Gold,138.3 x 67.1 x 7.1 mm,138g,Stereo speakers; Water resistance
+iPhone 7 Plus,A1661/A1784/A1785,2016-09-16,5.5",1080x1920,A10 Fusion,32GB/128GB/256GB,Jet Black/Black/Silver/Gold/Rose Gold,158.2 x 77.9 x 7.3 mm,188g,Dual cameras; Portrait mode
+iPhone 8,A1863/A1905/A1906,2017-09-22,4.7",750x1334,A11 Bionic,64GB/128GB/256GB,Space Gray/Silver/Gold,138.4 x 67.3 x 7.3 mm,148g,Wireless charging; Glass back
+iPhone 8 Plus,A1864/A1897/A1898,2017-09-22,5.5",1080x1920,A11 Bionic,64GB/128GB/256GB,Space Gray/Silver/Gold,158.4 x 78.1 x 7.5 mm,202g,Wireless charging; Dual cameras
+iPhone X,A1865/A1901/A1902,2017-11-03,5.8",1125x2436,A11 Bionic,64GB/256GB,Space Gray/Silver,143.6 x 70.9 x 7.7 mm,174g,Face ID; OLED display
+iPhone XR,A1984/A2105/A2106/A2108,2018-10-26,6.1",828x1792,A12 Bionic,64GB/128GB/256GB,Black/White/Blue/Yellow/Coral/Red,150.9 x 75.7 x 8.3 mm,194g,Wide color display; Liquid Retina
+iPhone XS,A1920/A2097/A2098/A2100,2018-09-21,5.8",1125x2436,A12 Bionic,64GB/256GB/512GB,Space Gray/Silver/Gold,143.6 x 70.9 x 7.7 mm,177g,Improved Face ID; Dual SIM
+iPhone XS Max,A1921/A2101/A2102/A2104,2018-09-21,6.5",1242x2688,A12 Bionic,64GB/256GB/512GB,Space Gray/Silver/Gold,157.5 x 77.4 x 7.7 mm,208g,Largest display; Dual SIM
+iPhone 11,A2111/A2221/A2223,2019-09-20,6.1",828x1792,A13 Bionic,64GB/128GB/256GB,Black/Green/Yellow/Purple/Red/White,150.9 x 75.7 x 8.3 mm,194g,Dual cameras; Night mode
+iPhone 11 Pro,A2160/A2215/A2217,2019-09-20,5.8",1125x2436,A13 Bionic,64GB/256GB/512GB,Space Gray/Silver/Gold/Midnight Green,144.0 x 71.4 x 8.1 mm,188g,Triple cameras; Super Retina XDR
+iPhone 11 Pro Max,A2161/A2220/A2218,2019-09-20,6.5",1242x2688,A13 Bionic,64GB/256GB/512GB,Space Gray/Silver/Gold/Midnight Green,158.0 x 77.8 x 8.1 mm,226g,Triple cameras; Super Retina XDR
+iPhone SE (2nd Gen),A2275/A2296/A2298,2020-04-24,4.7",750x1334,A13 Bionic,64GB/128GB/256GB,Black/White/Red,138.4 x 67.3 x 7.3 mm,148g,Affordable; A13 chip
+iPhone 12 Mini,A2176/A2398/A2400/A2399,2020-11-13,5.4",1080x2340,A14 Bionic,64GB/128GB/256GB,Black/White/Blue/Green/Red,131.5 x 64.2 x 7.4 mm,135g,Compact design; 5G support
+iPhone 12,A2172/A2402/A2404/A2403,2020-10-23,6.1",1170x2532,A14 Bionic,64GB/128GB/256GB,Black/White/Blue/Green/Red,146.7 x 71.5 x 7.4 mm,164g,5G support; Ceramic Shield
+iPhone 12 Pro,A2341/A2406/A2408/A2407,2020-10-23,6.1",1170x2532,A14 Bionic,128GB/256GB/512GB,Silver/Graphite/Gold/Pacific Blue,146.7 x 71.5 x 7.4 mm,189g,LiDAR scanner; ProRAW
+iPhone 12 Pro Max,A2342/A2410/A2412/A2411,2020-11-13,6.7",1284x2778,A14 Bionic,128GB/256GB/512GB,Silver/Graphite/Gold/Pacific Blue,160.8 x 
+iPhone 13,A2482,A2631,A2633,A2634,A2635,2021-09-24,6.1",2532x1170,A15 Bionic,"128GB, 256GB, 512GB","Midnight, Starlight, Blue, Pink, Green, (PRODUCT)RED","146.7 x 71.5 x 7.65 mm",174g,"Smaller notch; Cinematic mode; Improved battery life"
+iPhone 13 mini,A2481,A2626,A2628,A2629,A2630,2021-09-24,5.4",2340x1080,A15 Bionic,"128GB, 256GB, 512GB","Midnight, Starlight, Blue, Pink, Green, (PRODUCT)RED","131.5 x 64.2 x 7.65 mm",140g,"Compact design; Same features as iPhone 13"
+iPhone 13 Pro,A2483,A2636,A2638,A2639,A2640,2021-09-24,6.1",2532x1170,A15 Bionic,"128GB, 256GB, 512GB, 1TB","Graphite, Gold, Silver, Sierra Blue","146.7 x 71.5 x 7.65 mm",204g,"ProMotion display; Triple-camera system; LiDAR scanner"
+iPhone 13 Pro Max,A2484,A2641,A2643,A2644,A2645,2021-09-24,6.7",2778x1284,A15 Bionic,"128GB, 256GB, 512GB, 1TB","Graphite, Gold, Silver, Sierra Blue","160.8 x 78.1 x 7.65 mm",238g,"Largest display; Best battery life in iPhone lineup"
+iPhone 14,A2649,A2881,A2882,A2884,A2883,2022-09-16,6.1",2532x1170,A15 Bionic,"128GB, 256GB, 512GB","Midnight, Starlight, Blue, Purple, Yellow, (PRODUCT)RED","146.7 x 71.5 x 7.8 mm",172g,"Emergency SOS via satellite; Crash Detection; Improved camera"
+iPhone 14 Plus,A2632,A2885,A2886,A2896,A2887,2022-10-07,6.7",2778x1284,A15 Bionic,"128GB, 256GB, 512GB","Midnight, Starlight, Blue, Purple, Yellow, (PRODUCT)RED","160.8 x 78.1 x 7.8 mm",203g,"Larger display; Best battery life among iPhone 14 models"
+iPhone 14 Pro,A2650,A2889,A2890,A2891,A2892,2022-09-16,6.1",2556x1179,A16 Bionic,"128GB, 256GB, 512GB, 1TB","Deep Purple, Gold, Silver, Space Black","147.5 x 71.5 x 7.85 mm",206g,"Dynamic Island; Always-On display; 48MP main camera"
+iPhone 14 Pro Max,A2651,A2893,A2894,A2895,A2896,2022-09-16,6.7",2796x1290,A16 Bionic,"128GB, 256GB, 512GB, 1TB","Deep Purple, Gold, Silver, Space Black","160.7 x 77.6 x 7.85 mm",240g,"Largest display; Longest battery life; Advanced camera system"
+iPhone 15,A2846,A3089,A3090,A3092,A3094,2023-09-22,6.1",2556x1179,A16 Bionic,"128GB, 256GB, 512GB","Black, Blue, Green, Yellow, Pink","147.6 x 71.6 x 7.8 mm",171g,"Dynamic Island; USB-C port; 48MP main camera"
+iPhone 15 Plus,A2847,A3095,A3096,A3098,A3100,2023-09-22,6.7",2796x1290,A16 Bionic,"128GB, 256GB, 512GB","Black, Blue, Green, Yellow, Pink","160.9 x 77.8 x 7.8 mm",201g,"Larger display; Enhanced battery life; USB-C port"
+iPhone 15 Pro,A2848,A3101,A3102,A3104,A3106,2023-09-22,6.1",2556x1179,A17 Pro,"128GB, 256GB, 512GB, 1TB","Black Titanium, White Titanium, Blue Titanium, Natural Titanium","146.6 x 70.6 x 8.25 mm",187g,"Titanium design; USB-C with USB 3 speeds; ProMotion display"
+iPhone 15 Pro Max,A2849,A3107,A3108,A3110,A3112,2023-09-22,6.7",2796x1290,A17 Pro,"256GB, 512GB, 1TB","Black Titanium, White Titanium, Blue Titanium, Natural Titanium","159.9 x 76.7 x 8.25 mm",221g,"Periscope telephoto lens; Longest battery life; Advanced camera system"
+iPhone 16,A3113,A3114,A3115,A3116,A3117,2024-09-20,6.1",2556x1179,A18,"128GB, 256GB, 512GB","Black, White, Pink, Teal, Ultramarine","147.6 x 71.6 x 7.8 mm",170g,"Action Button; Camera Control button; Apple Intelligence features"
+iPhone 16 Plus,A3118,A3119,A3120,A3121,A3122,2024-09-20,6.7",2796x1290,A18,"128GB, 256GB, 512GB","Black, White, Pink, Teal, Ultramarine","160.9 x 77.8 x 7.8 mm",199g,"Larger display; Enhanced battery life; Apple Intelligence features"
+iPhone 16 Pro,A3123,A3124,A3125,A3126,A3127,2024-09-20,6.3",2796x1290,A18 Pro,"128GB, 256GB, 512GB, 1TB","Black Titanium, White Titanium, Blue Titanium, Natural Titanium","149.6 x 71.6 x 8.25 mm",194g,"Thinner bezels; 5x telephoto zoom; Advanced AI capabilities"
+iPhone 16 Pro Max,A3128,A3129,A3130,A3131,A3132,2024-09-20,6.9",3088x1436,A18 Pro,"256GB, 512GB, 1TB","Black Titanium, White Titanium, Blue Titanium, Natural Titanium","163.6 x 77.8 x 8.25 mm",225g,"Largest display; Longest battery life; Advanced camera system"
+iPad (1st generation),A1219,A1337,2010-04-03,9.7",1024x768,A4,"16GB, 32GB, 64GB","Black","242.8 x 189.7 x 13.4 mm",680g,"First iPad; No cameras"
+iPad 2,A1395,A1396,A1397,2011-03-11,9.7",1024x768,A5,"16GB, 32GB, 64GB","Black, White","241.2 x 185.7 x 8.8 mm",601g,"Thinner design; Front and rear cameras"
+iPad (3rd generation),A1416,A1430,A1403,2012-03-16,9.7",2048x1536,A5X,"16GB, 32GB, 64GB","Black, White","241.2 x 185.7 x 9.4 mm",652g,"Retina display; Improved graphics"
+iPad (4th generation),A1458,A1459,A1460,2012-11-02,9.7",2048x1536,A6X,"16GB, 32GB, 64GB, 128GB","Black, White","241.2 x 185.7 x 9.4 mm",652g,"Lightning connector; Enhanced performance"
+iPad (5th generation),A1822,A1823,2017-03-24,9.7",2048x1536,A9,"32GB, 128GB","Silver, Gold, Space Gray","240 x 169.5 x 7.5 mm",469g,"Budget-friendly; Improved processor"
+iPad (6th generation),A1893,A1954,2018-03-27,9.7",2048x1536,A10 Fusion,"32GB, 128GB","Silver, Gold, Space Gray","240 x 169.5 x 7.5 mm",469g,"Apple Pencil (1st gen) support"
+iPad (7th generation),A2197,A2200,A2198,2019-09-25,10.2",2160x1620,A10 Fusion,"32GB, 128GB","Silver, Gold, Space Gray","250.6 x 174.1 x 7.5 mm",483g,"Larger display; Smart Keyboard support"
+iPad (8th generation),A2270,A2428,A2429,A2430,2020-09-18,10.2",2160x1620,A12 Bionic,"32GB, 128GB","Silver, Gold, Space Gray","250.6 x 174.1 x 7.5 mm",490g,"Improved performance; Neural Engine"
+iPad (9th generation),A2602,A2603,A2604,A2605,2021-09-24,10.2",2160x1620,A13 Bionic,"64GB, 256GB","Silver, Space Gray","250.6 x 174.1 x 7.5 mm",487g,"True Tone display; Center Stage"
+iPad (10th generation),A2696,A2757,A2777,2022-10-26,10.9",2360x1640,A14 Bionic,"64GB, 256GB","Silver, Blue, Pink, Yellow","248.6 x 179.5 x 7 mm",477g,"USB-C; New design; Landscape front camera"
+iPad (11th generation),A2846,A3089,A3090,A3092,A3094,2025-03-12,11",2388x1668,A16 Bionic,"128GB, 256GB, 512GB","Silver, Blue, Pink, Yellow","247.6 x 178.5 x 6.8 mm",470g,"Enhanced performance; Apple Pencil USB-C support"
+iPad mini (1st generation),A1432,A1454,A1455,2012-11-02,7.9",1024x768,A5,"16GB, 32GB, 64GB","Black & Slate, White & Silver","200 x 134.7 x 7.2 mm",308g,"Compact size; First iPad mini"
+iPad mini 2,A1489,A1490,A1491,2013-11-12,7.9",2048x1536,A7,"16GB, 32GB, 64GB, 128GB","Space Gray, Silver","200 x 134.7 x 7.5 mm",331g,"Retina display; Improved performance"
+iPad mini 3,A1599,A1600,A1601,2014-10-22,7.9",2048x1536,A7,"16GB, 64GB, 128GB","Space Gray, Silver, Gold","200 x 134.7 x 7.5 mm",331g,"Touch ID; New color option"
+iPad mini 4,A1538,A1550,2015-09-09,7.9",2048x1536,A8,"16GB, 32GB, 64GB, 128GB","Space Gray, Silver, Gold","203.2 x 134.8 x 6.1 mm",298.8g,"Thinner design; Enhanced camera"
+iPad mini (5th generation),A2133,A2124,A2126,A2125,2019-03-18,7.9",2048x1536,A12 Bionic,"64GB, 256GB","Space Gray, Silver, Gold","203.2 x 134.8 x 6.1 mm",300.5g,"Apple Pencil (1st gen) support; True Tone display"
+iPad mini (6th generation),A2567,A2568,A2569,2021-09-24,8.3",2266x1488,A15 Bionic,"64GB, 256GB","Space Gray, Pink, Purple, Starlight","195.4 x 134.8 x 6.3 mm",293g,"USB-C; Apple Pencil (2nd gen) support"
+iPad mini (7th generation),A2845,A2846,A2847,2024-10-23,8.3",2266x1488,A17 Pro,"128GB, 256GB, 512GB","Space Gray, Pink, Purple, Starlight","195.4 x 134.8 x 6.3 mm",293g,"Apple Pencil Pro support; Enhanced performance"
+iPad Air (1st generation),A1474,A1475,A1476,2013-11-01,9.7",2048x1536,A7,"16GB, 32GB, 64GB, 128GB","Space Gray, Silver","240 x 169.5 x 7.5 mm",469g,"Thinner design; Improved performance"
+iPad Air 2,A1566,A1567,2014-10-22,9.7",2048x1536,A8X,"16GB, 32GB, 64GB, 128GB","Space Gray, Silver, Gold","240 x 169.5 x 6.1 mm",437g,"Touch ID; Enhanced camera"
+iPad Air (3rd generation),A2152,A2123,A2153,A2154,2019-03-18,10.5",2224x1668,A12 Bionic,"64GB, 256GB","Space Gray, Silver, Gold","250.6 x 174.1 x 6.1 mm",456g,"Apple Pencil (1st gen) support; Smart Keyboard support"
+iPad Air (4th generation),A2316,A2324,A2325,A2072,2020-10-23,10.9",2360x1640,A14 Bionic,"64GB, 256GB","Space Gray, Silver, Rose Gold, Green, Sky Blue","247.6 x 178.5 x 6.1 mm",458g,"USB-C; Apple Pencil (2nd gen) support"
+iPad Air (5th generation),A2588,A2589,A2591,2022-03-18,10.9",2360x1640,M1,"64GB, 256GB","Space Gray, Starlight, Pink, Purple, Blue","247.6 x 178.5 x 6.1 mm",461g,"M1 chip; Center Stage; 5G support"
+iPad Air (6th generation),A2900,A2901,A2902,A2903,2024-05-15,"11"",13"",2360x1640 (11""),2732x2048 (13"")",M2,"128GB, 256GB, 512GB, 1TB","Space Gray, Starlight, Pink, Purple, Blue","247.6 x 178.5 x 6.1 mm (11""),280.6 x 214.9 x 6.1 mm (13"")","461g (11""), 617g (13"")","Larger display options; Apple Pencil Pro support"
+iPad Air (7th generation),A2940,A2941,A2942,A2943,2025-03-12,"11"",13"",2360x1640 (11""),2732x2048 (13"")",M3,"128GB, 256GB, 512GB, 1TB","Space Gray, Starlight, Pink, Purple, Blue","247.6 x 178.5 x 6.1 mm (11""),280.6 x 214.9 x 6.1 mm (13"")","461g (11""), 617g (13"")","M3 chip; Enhanced performance"
+iPad Pro 9.7-inch (1st generation),A1673,A1674,A1675,2016-03-31,9.7",2048x1536,A9X,"32GB, 128GB, 256GB","Silver, Gold, Space Gray, Rose Gold","240 x 169.5 x 6.1 mm",437g,"First iPad
+iPad Pro 12.9-inch (1st generation),A1584,A1652,2015-11-11,12.9",2732x2048,A9X,"32GB, 128GB, 256GB","Space Gray, Silver, Gold","305.7 x 220.6 x 6.9 mm","713g (Wi-Fi), 723g (Wi-Fi + Cellular)","First iPad Pro; Apple Pencil (1st gen) support; Four speaker audio"
+iPad Pro 9.7-inch (1st generation),A1673,A1674,A1675,2016-03-31,9.7",2048x1536,A9X,"32GB, 128GB, 256GB","Silver, Gold, Space Gray, Rose Gold","240 x 169.5 x 6.1 mm","437g (Wi-Fi), 444g (Wi-Fi + Cellular)","True Tone display; Apple Pencil (1st gen) support"
+iPad Pro 10.5-inch (2nd generation),A1701,A1709,A1852,2017-06-13,10.5",2224x1668,A10X Fusion,"64GB, 256GB, 512GB","Silver, Gold, Space Gray, Rose Gold","250.6 x 174.1 x 6.1 mm","469g (Wi-Fi), 477g (Wi-Fi + Cellular)","ProMotion technology; Wide color display"
+iPad Pro 12.9-inch (2nd generation),A1670,A1671,A1821,2017-06-13,12.9",2732x2048,A10X Fusion,"64GB, 256GB, 512GB","Silver, Gold, Space Gray","305.7 x 220.6 x 6.9 mm","677g (Wi-Fi), 692g (Wi-Fi + Cellular)","Improved display technology; Enhanced performance"
+iPad Pro 11-inch (1st generation),A1980,A2013,A1934,A1979,2018-11-07,11",2388x1668,A12X Bionic,"64GB, 256GB, 512GB, 1TB","Silver, Space Gray","247.6 x 178.5 x 5.9 mm","468g (Wi-Fi), 468g (Wi-Fi + Cellular)","Edge-to-edge Liquid Retina display; Face ID"
+iPad Pro 12.9-inch (3rd generation),A1876,A2014,A1895,A1983,2018-11-07,12.9",2732x2048,A12X Bionic,"64GB, 256GB, 512GB, 1TB","Silver, Space Gray","280.6 x 214.9 x 5.9 mm","631g (Wi-Fi), 633g (Wi-Fi + Cellular)","Redesigned with thinner bezels; USB-C connector"
+iPad Pro 11-inch (2nd generation),A2228,A2068,A2230,A2231,2020-03-25,11",2388x1668,A12Z Bionic,"128GB, 256GB, 512GB, 1TB","Silver, Space Gray","247.6 x 178.5 x 5.9 mm","471g (Wi-Fi), 473g (Wi-Fi + Cellular)","LiDAR Scanner; Enhanced GPU performance"
+iPad Pro 12.9-inch (4th generation),A2229,A2069,A2232,A2233,2020-03-25,12.9",2732x2048,A12Z Bionic,"128GB, 256GB, 512GB, 1TB","Silver, Space Gray","280.6 x 214.9 x 5.9 mm","641g (Wi-Fi), 643g (Wi-Fi + Cellular)","LiDAR Scanner; Improved thermal architecture"
+iPad Pro 11-inch (3rd generation),A2377,A2459,A2301,A2460,2021-05-21,11",2388x1668,M1,"128GB, 256GB, 512GB, 1TB, 2TB","Silver, Space Gray","247.6 x 178.5 x 5.9 mm","466g (Wi-Fi), 468g (Wi-Fi + Cellular)","M1 chip; Thunderbolt/USB 4 support"
+iPad Pro 12.9-inch (5th generation),A2378,A2461,A2379,A2462,2021-05-21,12.9",2732x2048,M1,"128GB, 256GB, 512GB, 1TB, 2TB","Silver, Space Gray","280.6 x 214.9 x 6.4 mm","682g (Wi-Fi), 684g (Wi-Fi + Cellular)","Liquid Retina XDR display; Enhanced performance"
+iPad Pro 11-inch (4th generation),A2759,A2761,A2435,A2762,2022-10-26,11",2388x1668,M2,"128GB, 256GB, 512GB, 1TB, 2TB","Silver, Space Gray","247.6 x 178.5 x 5.9 mm","466g (Wi-Fi), 468g (Wi-Fi + Cellular)","M2 chip; Apple Pencil hover feature"
+iPad Pro 12.9-inch (6th generation),A2436,A2437,A2764,A2766,2022-10-26,12.9",2732x2048,M2,"128GB, 256GB, 512GB, 1TB, 2TB","Silver, Space Gray","280.6 x 214.9 x 6.4 mm","682g (Wi-Fi), 684g (Wi-Fi + Cellular)","M2 chip; ProRes video recording"
+iPad Pro 11-inch (5th generation),A2836,A2837,2024-05-15,11",2388x1668,M4,"256GB, 512GB, 1TB, 2TB","Silver, Space Black","249.7 x 177.5 x 5.3 mm","444g (Wi-Fi), 446g (Wi-Fi + Cellular)","M4 chip; OLED display; Apple Pencil Pro support"
+iPad Pro 13-inch (7th generation),A2925,A2926,2024-05-15,13",2732x2048,M4,"256GB, 512GB, 1TB, 2TB","Silver, Space Black","281.6 x 215.5 x 5.1 mm","579g (Wi-Fi), 581g (Wi-Fi + Cellular)","M4 chip; OLED display; Thinnest Apple device"
