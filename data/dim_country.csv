@@ -1,0 +1,101 @@
+country_id,country_name,region,continent
+1,United States,North America,North America
+2,Canada,North America,North America
+3,United Kingdom,Western Europe,Europe
+4,Germany,Western Europe,Europe
+5,France,Western Europe,Europe
+6,Japan,East Asia,Asia
+7,Australia,Oceania,Oceania
+8,Brazil,South America,South America
+9,India,South Asia,Asia
+10,China,East Asia,Asia
+11,Italy,Southern Europe,Europe
+12,Spain,Southern Europe,Europe
+13,Netherlands,Western Europe,Europe
+14,Sweden,Northern Europe,Europe
+15,Norway,Northern Europe,Europe
+16,South Korea,East Asia,Asia
+17,Singapore,Southeast Asia,Asia
+18,Mexico,North America,North America
+19,Argentina,South America,South America
+20,South Africa,Southern Africa,Africa
+21,Russia,Eastern Europe,Europe
+22,Poland,Eastern Europe,Europe
+23,Turkey,Western Asia,Asia
+24,Israel,Western Asia,Asia
+25,UAE,Western Asia,Asia
+26,Saudi Arabia,Western Asia,Asia
+27,Egypt,Northern Africa,Africa
+28,Nigeria,Western Africa,Africa
+29,Kenya,Eastern Africa,Africa
+30,Morocco,Northern Africa,Africa
+31,Thailand,Southeast Asia,Asia
+32,Vietnam,Southeast Asia,Asia
+33,Philippines,Southeast Asia,Asia
+34,Indonesia,Southeast Asia,Asia
+35,Malaysia,Southeast Asia,Asia
+36,New Zealand,Oceania,Oceania
+37,Chile,South America,South America
+38,Colombia,South America,South America
+39,Peru,South America,South America
+40,Venezuela,South America,South America
+41,Ukraine,Eastern Europe,Europe
+42,Czech Republic,Eastern Europe,Europe
+43,Hungary,Eastern Europe,Europe
+44,Romania,Eastern Europe,Europe
+45,Bulgaria,Eastern Europe,Europe
+46,Greece,Southern Europe,Europe
+47,Portugal,Southern Europe,Europe
+48,Austria,Western Europe,Europe
+49,Switzerland,Western Europe,Europe
+50,Belgium,Western Europe,Europe
+51,Denmark,Northern Europe,Europe
+52,Finland,Northern Europe,Europe
+53,Ireland,Western Europe,Europe
+54,Croatia,Southern Europe,Europe
+55,Slovenia,Southern Europe,Europe
+56,Slovakia,Eastern Europe,Europe
+57,Lithuania,Northern Europe,Europe
+58,Latvia,Northern Europe,Europe
+59,Estonia,Northern Europe,Europe
+60,Luxembourg,Western Europe,Europe
+61,Malta,Southern Europe,Europe
+62,Cyprus,Southern Europe,Europe
+63,Iceland,Northern Europe,Europe
+64,Bangladesh,South Asia,Asia
+65,Pakistan,South Asia,Asia
+66,Sri Lanka,South Asia,Asia
+67,Nepal,South Asia,Asia
+68,Myanmar,Southeast Asia,Asia
+69,Cambodia,Southeast Asia,Asia
+70,Laos,Southeast Asia,Asia
+71,Mongolia,East Asia,Asia
+72,Kazakhstan,Central Asia,Asia
+73,Uzbekistan,Central Asia,Asia
+74,Kyrgyzstan,Central Asia,Asia
+75,Tajikistan,Central Asia,Asia
+76,Turkmenistan,Central Asia,Asia
+77,Afghanistan,South Asia,Asia
+78,Iran,Western Asia,Asia
+79,Iraq,Western Asia,Asia
+80,Jordan,Western Asia,Asia
+81,Lebanon,Western Asia,Asia
+82,Syria,Western Asia,Asia
+83,Yemen,Western Asia,Asia
+84,Oman,Western Asia,Asia
+85,Qatar,Western Asia,Asia
+86,Bahrain,Western Asia,Asia
+87,Kuwait,Western Asia,Asia
+88,Georgia,Western Asia,Asia
+89,Armenia,Western Asia,Asia
+90,Azerbaijan,Western Asia,Asia
+91,Tunisia,Northern Africa,Africa
+92,Algeria,Northern Africa,Africa
+93,Libya,Northern Africa,Africa
+94,Sudan,Northern Africa,Africa
+95,Ethiopia,Eastern Africa,Africa
+96,Tanzania,Eastern Africa,Africa
+97,Uganda,Eastern Africa,Africa
+98,Rwanda,Eastern Africa,Africa
+99,Ghana,Western Africa,Africa
+100,Senegal,Western Africa,Africa

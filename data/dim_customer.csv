@@ -1,0 +1,51 @@
+customer_id,customer_name,city,state,country_id,email,phone,registration_date
+1001,John Smith,New York,New York,1,john.smith@email.com,+1-555-0101,2023-01-15
+1002,Emma Johnson,Los Angeles,California,1,emma.johnson@email.com,+1-555-0102,2023-01-20
+1003,Michael Brown,Chicago,Illinois,1,michael.brown@email.com,+1-555-0103,2023-02-01
+1004,Sarah Davis,Houston,Texas,1,sarah.davis@email.com,+1-555-0104,2023-02-10
+1005,David Wilson,Phoenix,Arizona,1,david.wilson@email.com,+1-555-0105,2023-02-15
+1006,Lisa Anderson,Toronto,Ontario,2,lisa.anderson@email.com,+1-416-555-0106,2023-02-20
+1007,Robert Taylor,Vancouver,British Columbia,2,robert.taylor@email.com,+1-604-555-0107,2023-03-01
+1008,Jennifer White,London,England,3,jennifer.white@email.com,+44-20-5550108,2023-03-05
+1009,William Martin,Manchester,England,3,william.martin@email.com,+44-161-5550109,2023-03-10
+1010,Mary Thompson,Berlin,Berlin,4,mary.thompson@email.com,+49-30-5550110,2023-03-15
+1011,James Garcia,Munich,Bavaria,4,james.garcia@email.com,+49-89-5550111,2023-03-20
+1012,Patricia Martinez,Paris,Île-de-France,5,patricia.martinez@email.com,+33-1-5550112,2023-03-25
+1013,Christopher Rodriguez,Lyon,Auvergne-Rhône-Alpes,5,christopher.rodriguez@email.com,+33-4-5550113,2023-04-01
+1014,Linda Lewis,Tokyo,Tokyo,6,linda.lewis@email.com,+81-3-5550114,2023-04-05
+1015,Mark Lee,Osaka,Osaka,6,mark.lee@email.com,+81-6-5550115,2023-04-10
+1016,Barbara Walker,Sydney,New South Wales,7,barbara.walker@email.com,+61-2-5550116,2023-04-15
+1017,Daniel Hall,Melbourne,Victoria,7,daniel.hall@email.com,+61-3-5550117,2023-04-20
+1018,Susan Allen,São Paulo,São Paulo,8,susan.allen@email.com,+55-11-5550118,2023-04-25
+1019,Joseph Young,Rio de Janeiro,Rio de Janeiro,8,joseph.young@email.com,+55-21-5550119,2023-05-01
+1020,Nancy Hernandez,Mumbai,Maharashtra,9,nancy.hernandez@email.com,+91-22-5550120,2023-05-05
+1021,Kenneth King,Delhi,Delhi,9,kenneth.king@email.com,+91-11-5550121,2023-05-10
+1022,Betty Wright,Shanghai,Shanghai,10,betty.wright@email.com,+86-21-5550122,2023-05-15
+1023,Steven Lopez,Beijing,Beijing,10,steven.lopez@email.com,+86-10-5550123,2023-05-20
+1024,Helen Hill,Rome,Lazio,11,helen.hill@email.com,+39-06-5550124,2023-05-25
+1025,Edward Scott,Milan,Lombardy,11,edward.scott@email.com,+39-02-5550125,2023-06-01
+1026,Sandra Green,Madrid,Madrid,12,sandra.green@email.com,+34-91-5550126,2023-06-05
+1027,Brian Adams,Barcelona,Catalonia,12,brian.adams@email.com,+34-93-5550127,2023-06-10
+1028,Dorothy Baker,Amsterdam,North Holland,13,dorothy.baker@email.com,+31-20-5550128,2023-06-15
+1029,Anthony Gonzalez,Stockholm,Stockholm,14,anthony.gonzalez@email.com,+46-8-5550129,2023-06-20
+1030,Lisa Nelson,Oslo,Oslo,15,lisa.nelson@email.com,+47-22-5550130,2023-06-25
+1031,Paul Carter,Seoul,Seoul,16,paul.carter@email.com,+82-2-5550131,2023-07-01
+1032,Donna Mitchell,Singapore,Singapore,17,donna.mitchell@email.com,+65-6550-0132,2023-07-05
+1033,Kevin Perez,Mexico City,Mexico City,18,kevin.perez@email.com,+52-55-5550133,2023-07-10
+1034,Carol Roberts,Buenos Aires,Buenos Aires,19,carol.roberts@email.com,+54-11-5550134,2023-07-15
+1035,George Turner,Cape Town,Western Cape,20,george.turner@email.com,+27-21-5550135,2023-07-20
+1036,Ruth Phillips,Moscow,Moscow,21,ruth.phillips@email.com,+7-495-5550136,2023-07-25
+1037,Frank Campbell,Warsaw,Mazowieckie,22,frank.campbell@email.com,+48-22-5550137,2023-08-01
+1038,Christine Parker,Istanbul,Istanbul,23,christine.parker@email.com,+90-212-5550138,2023-08-05
+1039,Scott Evans,Tel Aviv,Tel Aviv,24,scott.evans@email.com,+972-3-5550139,2023-08-10
+1040,Deborah Edwards,Dubai,Dubai,25,deborah.edwards@email.com,+971-4-5550140,2023-08-15
+1041,Gregory Collins,Riyadh,Riyadh,26,gregory.collins@email.com,+966-11-5550141,2023-08-20
+1042,Rachel Stewart,Cairo,Cairo,27,rachel.stewart@email.com,+20-2-5550142,2023-08-25
+1043,Raymond Sanchez,Lagos,Lagos,28,raymond.sanchez@email.com,+234-1-5550143,2023-09-01
+1044,Janet Morris,Nairobi,Nairobi,29,janet.morris@email.com,+254-20-5550144,2023-09-05
+1045,Jack Rogers,Casablanca,Casablanca-Settat,30,jack.rogers@email.com,+212-522-5550145,2023-09-10
+1046,Gerald Reed,Bangkok,Bangkok,31,gerald.reed@email.com,+66-2-5550146,2023-09-15
+1047,Julie Cook,Ho Chi Minh City,Ho Chi Minh,32,julie.cook@email.com,+84-28-5550147,2023-09-20
+1048,Harold Morgan,Manila,Metro Manila,33,harold.morgan@email.com,+63-2-5550148,2023-09-25
+1049,Joyce Bell,Jakarta,Jakarta,34,joyce.bell@email.com,+62-21-5550149,2023-10-01
+1050,Arthur Murphy,Kuala Lumpur,Kuala Lumpur,35,arthur.murphy@email.com,+60-3-5550150,2023-10-05
