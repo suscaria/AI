@@ -49,4 +49,3 @@ request_id,customer_id,product_name,product_category,issue_category,issue_descri
 4048,1048,iPhone 14 Pro,iPhone,MagSafe,MagSafe charging not working consistently,2023-12-25,Open,NULL,Low,Tech_003
 4049,1049,AirPods Pro,AirPods,Spatial Audio,Spatial audio feature not functioning,2024-01-01,Open,NULL,Low,Tech_004
 4050,1050,MacBook Pro,Mac,Sleep Mode,Computer not waking up from sleep mode,2024-01-05,Open,NULL,High,Tech_005
-
