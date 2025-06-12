@@ -1,0 +1,52 @@
+campaign_id,customer_id,campaign_name,campaign_type,start_date,end_date,channel,budget,target_audience,campaign_status
+5001,1001,Back to School 2023,Seasonal,2023-07-15,2023-09-15,Email,25000.00,Students and Parents,Completed
+5002,1002,iPhone 14 Launch,Product Launch,2023-09-01,2023-10-31,Digital Ads,150000.00,Tech Enthusiasts,Completed
+5003,1003,Holiday Shopping,Seasonal,2023-11-01,2023-12-31,Multi-channel,200000.00,General Public,Completed
+5004,1004,MacBook Pro Upgrade,Product Promotion,2023-10-15,2023-11-30,Email,75000.00,Professionals,Completed
+5005,1005,AirPods Bundle Deal,Cross-sell,2023-08-01,2023-08-31,In-store,30000.00,iPhone Users,Completed
+5006,1006,Apple Watch Fitness,Health & Fitness,2023-01-01,2023-02-28,Social Media,85000.00,Fitness Enthusiasts,Completed
+5007,1007,iPad for Education,Education,2023-08-15,2023-09-30,Education Partners,120000.00,Students and Educators,Completed
+5008,1008,Apple TV+ Promotion,Service Promotion,2023-03-01,2023-04-30,Streaming Platforms,60000.00,Entertainment Seekers,Completed
+5009,1009,Spring Collection,Seasonal,2023-03-15,2023-05-15,Retail,90000.00,General Public,Completed
+5010,1010,Apple Care+ Awareness,Service Awareness,2023-06-01,2023-07-31,Email,40000.00,Recent Purchasers,Completed
+5011,1011,Back to School 2023,Seasonal,2023-07-15,2023-09-15,Digital Ads,25000.00,Students and Parents,Completed
+5012,1012,iPhone 14 Launch,Product Launch,2023-09-01,2023-10-31,Social Media,150000.00,Tech Enthusiasts,Completed
+5013,1013,Apple Watch Series 8,Product Launch,2023-09-15,2023-10-15,Multi-channel,100000.00,Health Conscious,Completed
+5014,1014,MacBook Air M2,Product Promotion,2023-07-01,2023-08-31,Email,80000.00,Creative Professionals,Completed
+5015,1015,AirPods Pro 2nd Gen,Product Launch,2023-09-20,2023-11-20,Digital Ads,110000.00,Audio Enthusiasts,Completed
+5016,1016,iPad Pro Creative,Professional,2023-04-01,2023-05-31,Professional Networks,95000.00,Creative Professionals,Completed
+5017,1017,Apple One Bundle,Service Bundle,2023-02-01,2023-12-31,Email,70000.00,Service Users,Active
+5018,1018,iPhone Trade-in,Trade-in Program,2023-01-01,2023-12-31,In-store,50000.00,Existing iPhone Users,Active
+5019,1019,Apple Card Cashback,Financial Service,2023-01-01,2023-12-31,Digital,45000.00,Apple Card Users,Active
+5020,1020,Environmental Initiative,CSR,2023-04-22,2023-04-30,Social Media,35000.00,Environmentally Conscious,Completed
+5021,1021,Back to School 2023,Seasonal,2023-07-15,2023-09-15,Email,25000.00,Students and Parents,Completed
+5022,1022,iPhone 14 Launch,Product Launch,2023-09-01,2023-10-31,Multi-channel,150000.00,Tech Enthusiasts,Completed
+5023,1023,Apple Watch Ultra,Product Launch,2023-09-23,2023-11-23,Digital Ads,130000.00,Adventure Seekers,Completed
+5024,1024,Apple TV 4K Gaming,Gaming Focus,2023-11-01,2023-12-31,Gaming Platforms,65000.00,Gamers,Completed
+5025,1025,iPad mini Portability,Lifestyle,2023-05-01,2023-06-30,Lifestyle Magazines,55000.00,Mobile Professionals,Completed
+5026,1026,MacBook Pro M2 Max,Professional,2023-01-15,2023-03-15,Professional Networks,140000.00,Video Professionals,Completed
+5027,1027,Apple Fitness+,Health Service,2023-01-01,2023-12-31,Fitness Apps,75000.00,Fitness Enthusiasts,Active
+5028,1028,Apple Music Classical,Music Service,2023-03-28,2023-05-28,Music Platforms,40000.00,Classical Music Lovers,Completed
+5029,1029,Apple News+,News Service,2023-02-01,2023-03-31,News Platforms,30000.00,News Readers,Completed
+5030,1030,Apple Arcade Gaming,Gaming Service,2023-06-01,2023-12-31,Gaming Platforms,85000.00,Mobile Gamers,Active
+5031,1031,iPhone 13 Value,Value Proposition,2023-09-15,2023-12-15,Multi-channel,120000.00,Budget Conscious,Completed
+5032,1032,Apple Watch SE Affordable,Affordable Option,2023-03-01,2023-04-30,Email,60000.00,First-time Buyers,Completed
+5033,1033,MacBook Air Student,Education,2023-06-15,2023-08-31,Education Partners,90000.00,College Students,Completed
+5034,1034,AirPods Max Premium,Premium Audio,2023-04-15,2023-06-15,Audio Magazines,80000.00,Audiophiles,Completed
+5035,1035,iPad Air Creativity,Creative Focus,2023-05-15,2023-07-15,Creative Platforms,70000.00,Digital Artists,Completed
+5036,1036,Apple Store Experience,Retail Experience,2023-01-01,2023-12-31,In-store,100000.00,Store Visitors,Active
+5037,1037,Apple Support Excellence,Customer Service,2023-01-01,2023-12-31,Support Channels,50000.00,All Customers,Active
+5038,1038,Apple Developer Program,Developer Focus,2023-06-01,2023-06-30,Developer Platforms,45000.00,App Developers,Completed
+5039,1039,Apple Business Essentials,Business Focus,2023-02-15,2023-12-31,Business Networks,95000.00,Small Businesses,Active
+5040,1040,Apple Privacy Campaign,Privacy Awareness,2023-01-28,2023-02-28,Digital Privacy,40000.00,Privacy Conscious,Completed
+5041,1041,iPhone Photography,Creative Feature,2023-04-01,2023-05-31,Photography Platforms,65000.00,Photography Enthusiasts,Completed
+5042,1042,Apple Watch Health,Health Awareness,2023-01-15,2023-12-31,Health Platforms,110000.00,Health Conscious,Active
+5043,1043,MacBook Gaming,Gaming Capability,2023-10-01,2023-11-30,Gaming Platforms,75000.00,Mac Gamers,Completed
+5044,1044,AirPods Workout,Fitness Audio,2023-05-01,2023-08-31,Fitness Platforms,55000.00,Workout Enthusiasts,Completed
+5045,1045,iPad Education Apps,Educational Content,2023-08-01,2023-12-31,Education Apps,80000.00,Educators,Active
+5046,1046,Apple TV+ Originals,Content Promotion,2023-01-01,2023-12-31,Streaming Marketing,120000.00,Content Consumers,Active
+5047,1047,Apple Pay Convenience,Payment Service,2023-01-01,2023-12-31,Retail Partners,60000.00,Mobile Payment Users,Active
+5048,1048,Apple Podcasts,Podcast Platform,2023-03-01,2023-12-31,Podcast Networks,35000.00,Podcast Listeners,Active
+5049,1049,Apple Books Reading,Digital Reading,2023-04-23,2023-04-30,Book Platforms,25000.00,Book Readers,Completed
+5050,1050,Apple Maps Improvement,Service Enhancement,2023-06-01,2023-12-31,Location Services,45000.00,Navigation Users,Active
+

@@ -1,0 +1,32 @@
+store_id,store_name,store_type,address,city,state,country_id,phone,opening_date,store_size_sqft
+2001,Apple Fifth Avenue,Flagship,767 5th Ave,New York,New York,1,+1-212-336-1440,2006-05-19,32000
+2002,Apple Union Square,Flagship,300 Post St,San Francisco,California,1,+1-415-392-0202,2016-05-21,24000
+2003,Apple Beverly Hills,Premium,444 N Rodeo Dr,Beverly Hills,California,1,+1-310-275-8440,2010-06-15,15000
+2004,Apple Michigan Avenue,Flagship,401 N Michigan Ave,Chicago,Illinois,1,+1-312-529-9500,2017-10-20,20000
+2005,Apple The Grove,Premium,189 The Grove Dr,Los Angeles,California,1,+1-323-937-2126,2002-11-14,12000
+2006,Apple Yorkdale,Premium,3401 Dufferin St,Toronto,Ontario,2,+1-416-789-7000,2018-08-11,18000
+2007,Apple Pacific Centre,Standard,701 W Georgia St,Vancouver,British Columbia,2,+1-604-428-2200,2008-03-20,10000
+2008,Apple Regent Street,Flagship,235 Regent St,London,England,3,+44-207-153-9000,2004-11-20,25000
+2009,Apple Covent Garden,Premium,1-7 The Piazza,London,England,3,+44-207-447-1400,2010-08-07,8000
+2010,Apple Kurfürstendamm,Premium,Kurfürstendamm 26,Berlin,Berlin,4,+49-30-40050450,2013-05-03,16000
+2011,Apple Maximilianstrasse,Premium,Maximilianstrasse 1,Munich,Bavaria,4,+49-89-255556700,2008-12-06,12000
+2012,Apple Champs-Élysées,Flagship,114 Avenue des Champs-Élysées,Paris,Île-de-France,5,+33-1-44-83-42-00,2018-07-15,22000
+2013,Apple Opéra,Premium,12 Rue Halévy,Paris,Île-de-France,5,+33-1-47-42-97-10,2005-09-18,14000
+2014,Apple Ginza,Flagship,3-5-12 Ginza,Tokyo,Tokyo,6,+81-3-5159-8200,2003-11-30,12000
+2015,Apple Shibuya,Premium,1-20-9 Shibuya,Tokyo,Tokyo,6,+81-3-6712-6700,2018-11-30,15000
+2016,Apple George Street,Premium,367-377 George St,Sydney,New South Wales,7,+61-2-8083-9400,2008-06-19,18000
+2017,Apple Chadstone,Standard,1341 Dandenong Rd,Melbourne,Victoria,7,+61-3-9563-2400,2017-10-26,14000
+2018,Apple VillageMall,Premium,Av. das Américas 3900,Rio de Janeiro,Rio de Janeiro,8,+55-21-2127-8400,2014-02-15,16000
+2019,Apple Palladium,Premium,Palladium Mall,Mumbai,Maharashtra,9,+91-22-6123-4500,2023-04-18,12000
+2020,Apple Sanlitun,Flagship,Building 19 Sanlitun Rd,Beijing,Beijing,10,+86-10-6417-4700,2008-07-19,15000
+2021,Apple West Lake,Premium,99 Yan'an Rd,Hangzhou,Zhejiang,10,+86-571-2688-0400,2015-01-24,18000
+2022,Apple Piazza Liberty,Flagship,Piazza Liberty,Milan,Lombardy,11,+39-02-2733-2800,2018-07-26,20000
+2023,Apple Puerta del Sol,Premium,Puerta del Sol 1,Madrid,Madrid,12,+39-91-595-1600,2014-06-21,14000
+2024,Apple Leidseplein,Premium,Leidseplein 16,Amsterdam,North Holland,13,+31-20-530-0200,2007-03-03,12000
+2025,Apple Mall of Scandinavia,Standard,Stjärntorget 2,Stockholm,Stockholm,14,+46-8-503-28500,2015-10-24,16000
+2026,Apple Aker Brygge,Premium,Stranden 3,Oslo,Oslo,15,+47-22-01-2800,2012-09-15,13000
+2027,Apple Gangnam,Premium,410 Gangnam-gu,Seoul,Seoul,16,+82-2-6712-2800,2018-01-27,17000
+2028,Apple Orchard Road,Flagship,270 Orchard Rd,Singapore,Singapore,17,+65-6709-1800,2017-05-27,19000
+2029,Apple Antara,Premium,Av. Ejército Nacional 843,Mexico City,Mexico City,18,+52-55-1105-9400,2016-09-24,15000
+2030,Apple Palermo,Premium,Av. Santa Fe 3253,Buenos Aires,Buenos Aires,19,+54-11-5777-8400,2018-04-28,14000
+

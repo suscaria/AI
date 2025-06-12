@@ -1,0 +1,34 @@
+request_id,customer_id,product_name,product_category,issue_category,issue_description,request_date,status,resolution_date,priority,assigned_technician
+4001,1001,iPhone 14 Pro,iPhone,Hardware,Screen cracking issue after minor drop,2023-02-15,Resolved,2023-02-18,High,Tech_001
+4002,1002,iPad Air,iPad,Software,App crashes frequently when using Safari,2023-02-20,Resolved,2023-02-22,Medium,Tech_002
+4003,1003,MacBook Air,Mac,Hardware,Keyboard keys sticking intermittently,2023-03-01,Resolved,2023-03-05,Medium,Tech_003
+4004,1004,Apple Watch Series 8,Watch,Battery,Battery draining faster than expected,2023-03-10,Resolved,2023-03-12,Low,Tech_004
+4005,1005,AirPods Pro,AirPods,Audio,Left earbud producing distorted sound,2023-03-15,Resolved,2023-03-17,High,Tech_005
+4006,1006,iPhone 14,iPhone,Connectivity,WiFi connection drops frequently,2023-03-20,Resolved,2023-03-25,Medium,Tech_001
+4007,1007,iPad Pro,iPad,Display,Screen flickering during video playback,2023-04-01,Resolved,2023-04-05,High,Tech_002
+4008,1008,MacBook Pro,Mac,Performance,System running very slow after update,2023-04-10,Resolved,2023-04-15,Medium,Tech_003
+4009,1009,Apple TV 4K,Apple TV,Software,Remote control not responding properly,2023-04-15,Resolved,2023-04-18,Low,Tech_004
+4010,1010,iPhone 14 Plus,iPhone,Camera,Camera app freezing when taking photos,2023-04-20,Resolved,2023-04-25,High,Tech_005
+4011,1011,iPad mini,iPad,Touch,Touch screen not responding in corner areas,2023-05-01,Resolved,2023-05-05,High,Tech_001
+4012,1012,MacBook Air,Mac,Hardware,Fan making unusual noise during operation,2023-05-10,Resolved,2023-05-15,Medium,Tech_002
+4013,1013,Apple Watch SE,Watch,Fitness,Heart rate sensor giving inaccurate readings,2023-05-15,Resolved,2023-05-20,Medium,Tech_003
+4014,1014,iPhone 14 Pro Max,iPhone,Battery,Phone shuts down unexpectedly at 20% battery,2023-05-20,Resolved,2023-05-25,High,Tech_004
+4015,1015,AirPods,AirPods,Connectivity,Bluetooth connection keeps dropping,2023-06-01,Resolved,2023-06-05,Medium,Tech_005
+4016,1016,iPad Air,iPad,Software,iOS update failed and device won't start,2023-06-10,Resolved,2023-06-15,High,Tech_001
+4017,1017,MacBook Pro,Mac,Display,External monitor not being detected,2023-06-15,Resolved,2023-06-20,Medium,Tech_002
+4018,1018,iPhone 13,iPhone,Audio,Speakerphone volume very low during calls,2023-06-20,Resolved,2023-06-25,Medium,Tech_003
+4019,1019,Apple Watch Series 8,Watch,Sensors,GPS tracking inaccurate during workouts,2023-07-01,Resolved,2023-07-05,Low,Tech_004
+4020,1020,iPad Pro,iPad,Performance,Device overheating during intensive tasks,2023-07-10,Resolved,2023-07-15,High,Tech_005
+4021,1021,AirPods Pro,AirPods,Noise Cancellation,Active noise cancellation not working properly,2023-07-15,Resolved,2023-07-20,Medium,Tech_001
+4022,1022,iPhone 14,iPhone,Software,Face ID stops working after iOS update,2023-07-20,Resolved,2023-07-25,High,Tech_002
+4023,1023,MacBook Air,Mac,Battery,Battery life significantly shorter than advertised,2023-08-01,Resolved,2023-08-05,Medium,Tech_003
+4024,1024,Apple TV 4K,Apple TV,Streaming,4K content buffering and quality issues,2023-08-10,Resolved,2023-08-15,Low,Tech_004
+4025,1025,iPad mini,iPad,Charging,Device not charging when plugged in,2023-08-15,Resolved,2023-08-20,High,Tech_005
+4026,1026,iPhone 14 Pro,iPhone,Camera,Night mode photos appearing grainy,2023-08-20,Resolved,2023-08-25,Medium,Tech_001
+4027,1027,Apple Watch Ultra,Watch,Durability,Watch band connection becoming loose,2023-09-01,Resolved,2023-09-05,Low,Tech_002
+4028,1028,MacBook Pro,Mac,Keyboard,Some keys not registering when pressed,2023-09-10,Resolved,2023-09-15,Medium,Tech_003
+4029,1029,AirPods,AirPods,Case,Charging case lid not staying closed,2023-09-15,Resolved,2023-09-20,Low,Tech_004
+4030,1030,iPhone 13 Pro,iPhone,Network,5G connection not working in coverage area,2023-09-20,Resolved,2023-09-25,Medium,Tech_005
+4031,1031,iPad Air,iPad,Storage,Available storage showing incorrectly,2023-10-01,In Progress,2023-11-20,Low,Tech_001
+4032,1032,Apple Watch Series 8,Watch,Apps,Third-party apps crashing frequently,2023-10-05,In Progress,2023-10-05,Medium,Tech_002
+4033,1033,MacBook Air,Mac,WiFi,Unable to connect to specific WiFi networks,2023-10-10,Open,2023-10-10,Medium,Tech_003
