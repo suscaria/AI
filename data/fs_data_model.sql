@@ -131,32 +131,32 @@ USE SCHEMA retail;
 
 -- Load dimension tables first
 -- 1. Country dimension (no dependencies)
-COPY INTO dim_country FROM @your_stage/dim_country.csv
+COPY INTO dim_country FROM @docs_ss/dim_country.csv
 FILE_FORMAT = (TYPE = 'CSV' FIELD_DELIMITER = ',' SKIP_HEADER = 1);
 
 -- 2. Customer dimension (depends on country)
-COPY INTO dim_customer FROM @your_stage/dim_customer.csv
+COPY INTO dim_customer FROM @docs_ss/dim_customer.csv
 FILE_FORMAT = (TYPE = 'CSV' FIELD_DELIMITER = ',' SKIP_HEADER = 1);
 
 -- 3. Time dimension (no dependencies)
-COPY INTO dim_time FROM @your_stage/dim_time.csv
+COPY INTO dim_time FROM @docs_ss/dim_time.csv
 FILE_FORMAT = (TYPE = 'CSV' FIELD_DELIMITER = ',' SKIP_HEADER = 1);
 
 -- 4. Apple Store dimension (depends on country)
-COPY INTO dim_apple_store FROM @your_stage/dim_apple_store.csv
+COPY INTO dim_apple_store FROM @docs_ss/dim_apple_store.csv
 FILE_FORMAT = (TYPE = 'CSV' FIELD_DELIMITER = ',' SKIP_HEADER = 1);
 
 -- Load fact and transaction tables
 -- 5. Sales fact table (depends on all dimensions)
-COPY INTO fact_sales FROM @your_stage/fact_sales.csv
+COPY INTO fact_sales FROM @docs_ss/fact_sales.csv
 FILE_FORMAT = (TYPE = 'CSV' FIELD_DELIMITER = ',' SKIP_HEADER = 1);
 
 -- 6. AppleCare requests (depends on customer)
-COPY INTO applecare_requests FROM @your_stage/applecare_requests.csv
+COPY INTO applecare_requests FROM @docs_ss/applecare_requests.csv
 FILE_FORMAT = (TYPE = 'CSV' FIELD_DELIMITER = ',' SKIP_HEADER = 1);
 
 -- 7. Campaign dimension (depends on customer)
-COPY INTO dim_campaign FROM @your_stage/dim_campaign.csv
+COPY INTO dim_campaign FROM @docs_ss/dim_campaign.csv
 FILE_FORMAT = (TYPE = 'CSV' FIELD_DELIMITER = ',' SKIP_HEADER = 1);
 
 
