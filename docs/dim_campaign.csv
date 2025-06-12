@@ -49,4 +49,3 @@ campaign_id,customer_id,campaign_name,campaign_type,start_date,end_date,channel,
 5048,1048,Apple Podcasts,Podcast Platform,2023-03-01,2023-12-31,Podcast Networks,35000.00,Podcast Listeners,Active
 5049,1049,Apple Books Reading,Digital Reading,2023-04-23,2023-04-30,Book Platforms,25000.00,Book Readers,Completed
 5050,1050,Apple Maps Improvement,Service Enhancement,2023-06-01,2023-12-31,Location Services,45000.00,Navigation Users,Active
-
