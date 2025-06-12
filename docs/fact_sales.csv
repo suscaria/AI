@@ -49,4 +49,3 @@ sales_id,customer_id,store_id,country_id,date_key,product_name,product_category,
 3048,1048,2024,13,20231210,iPhone 14 Pro,iPhone,1,999.00,999.00,100.00,179.82
 3049,1049,2014,6,20231217,AirPods Pro,AirPods,1,249.00,249.00,0.00,24.90
 3050,1050,2015,6,20231224,MacBook Pro,Mac,1,1999.00,1999.00,200.00,179.91
-
